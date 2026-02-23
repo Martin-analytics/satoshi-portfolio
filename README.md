@@ -2,7 +2,7 @@
 My personal portfolio showcasing data analytics and data science skills, projects and insights
 ## Intro
 Hi, I'm Martin. A data analyst and growing data scientist with a strong interest in turning raw data into clear, actionable insights.
-This repository serves as my portfolio, where i document my learning journey and showcase projects in data analysis, visualization and machine learning as I continue to grow my skills.
+This repository serves as my portfolio, where I document my learning journey and showcase projects in data analysis, visualization and machine learning as I continue to grow my skills.
 ## Tools and Skills
 ### Programming & Libraries: 
 - **Python**
